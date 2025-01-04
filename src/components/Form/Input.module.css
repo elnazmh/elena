@@ -1,0 +1,33 @@
+.div{
+    float: right;
+    display: block;
+    margin-top: 30px;
+    width: 80%;
+    margin-right: 20px;
+    padding: 5px;
+    border-color: rgb(26, 24, 24);
+    border-width: 2px;
+    border-style: solid;
+
+
+
+
+
+}
+/* .input{
+    float: right;
+    display: block;
+    margin-top: 30px;
+    width: 80%;
+    margin-right: 20px;
+    padding: 5px;
+    border-color: rgb(26, 24, 24);
+    border-width: 2px;
+    border-style: solid;
+ */
+
+.label{
+
+    float: right;
+    margin-right: 20px;
+}

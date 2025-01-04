@@ -1,0 +1,22 @@
+div img{
+margin-top: 130px;
+margin-left: 50%;}
+
+div p{text-align: justify;
+line-height: 50px;}
+
+.pp{
+
+    text-align: center;
+    border-color: antiquewhite;
+    border-style: dotted;
+    border-radius: 10px;
+    border-width: 2px;
+    background-color: rgb(229, 198, 150);
+    font-size: xx-large;
+    font-style: italic;
+    width: 50%;
+    height: 200px;
+margin: auto;
+color: blueviolet;
+}

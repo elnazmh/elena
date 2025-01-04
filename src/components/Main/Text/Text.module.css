@@ -1,0 +1,15 @@
+.div{
+display: inline-block;
+margin-left: 10px;
+
+
+
+
+}
+div p{color: black;
+    text-overflow: initial;
+    text-transform: capitalize;
+    text-shadow: 1px 0px 0px ;
+
+
+}
